@@ -1,7 +1,7 @@
 var assert = require('assert');
 var connect = require('./connect');
 var dbInterface = require('./interface');
-//var fs = require('fs');
+var fs = require('fs');
 var movies = require('./movies');
 
 /**
